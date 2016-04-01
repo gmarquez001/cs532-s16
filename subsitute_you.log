@@ -1,0 +1,56 @@
+03-31 18:24:22 default      INFO     Using default name: User
+03-31 18:24:22 default      INFO     Using default age: 21
+03-31 18:24:22 default      INFO     Using default gender: M
+03-31 18:24:22 default      INFO     Using default occupation: student
+03-31 18:24:22 gen_log      INFO     Reading data_files/u.data and creating array of lines.
+03-31 18:24:22 gen_log      INFO     Finished reading data_files/u.data
+03-31 18:24:22 gen_log      INFO     Reading data_files/u.item and creating array of lines.
+03-31 18:24:22 gen_log      INFO     Finished reading data_files/u.item
+03-31 18:24:22 gen_log      INFO     Reading data_files/u.user and creating array of lines.
+03-31 18:24:22 gen_log      INFO     Finished reading data_files/u.user
+03-31 18:24:22 gen_log      DEBUG    Created thread: data_thread
+03-31 18:24:22 gen_log      DEBUG    Created thread: item_thread
+03-31 18:24:22 gen_log      DEBUG    Created thread: user_thread
+03-31 18:24:22 gen_log      DEBUG    Starting thread: data_thread
+03-31 18:24:22 gen_log      DEBUG    Starting thread: item_thread
+03-31 18:24:22 u_data       INFO     Extracting <user_id> <item_id> <rating> <timestamp> from 100000 lines.
+03-31 18:24:22 u_item       INFO     Extracting <movie_id>|<movie_title>|<release_date>|<video_release_date>|<IMDb_URL>|<movieGenres>... from 1682 lines
+03-31 18:24:22 gen_log      DEBUG    Starting thread: user_thread
+03-31 18:24:22 u_user       INFO     Extracting <user_id>|<age>|<gender>|<occupation>|<zipcode> from 943 lines.
+03-31 18:24:22 u_user       INFO     Finished extracting 943 lines
+03-31 18:24:23 u_item       INFO     Finished extracting 1682 lines.
+03-31 18:24:28 u_data       INFO     Finished extracting 100000 lines of data
+03-31 18:24:28 gen_log      INFO     Finished processing data files
+03-31 18:24:28 default      INFO     8 similar users found
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 81
+03-31 18:24:28 default      DEBUG    58 movie ratings found for user: 58
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 81
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 81
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 259
+03-31 18:24:28 default      DEBUG    46 movie ratings found for user: 46
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 259
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 259
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 276
+03-31 18:24:28 default      DEBUG    516 movie ratings found for user: 516
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 276
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 276
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 323
+03-31 18:24:28 default      DEBUG    88 movie ratings found for user: 88
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 323
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 323
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 542
+03-31 18:24:28 default      DEBUG    135 movie ratings found for user: 135
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 542
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 542
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 725
+03-31 18:24:28 default      DEBUG    25 movie ratings found for user: 25
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 725
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 725
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 923
+03-31 18:24:28 default      DEBUG    74 movie ratings found for user: 74
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 923
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 923
+03-31 18:24:28 default      DEBUG    Getting movie ratings for user: 928
+03-31 18:24:28 default      DEBUG    31 movie ratings found for user: 31
+03-31 18:24:28 default      DEBUG    Creating list that can be sorted for user: 928
+03-31 18:24:28 default      INFO     Determining top three favorite movies and top three least favorite films for user: 928

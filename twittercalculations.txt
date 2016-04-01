@@ -1,0 +1,365 @@
+samalanmeister         576 
+
+weblawlib         887 
+
+Lucene_Solr_SF         325 
+
+jalbertbowdenii         1546 
+
+IgorBrigadir         1051 
+
+TimelessFuture         111 
+
+beyondcitation         382 
+
+knmnyn         101 
+
+anatbd         234 
+
+andy_anjoyh         295 
+
+vneblitt         25 
+
+Educopia         216 
+
+MPanula         26 
+
+todrobbins         1424 
+
+DLib2014         98 
+
+opba         446 
+
+jefferson_bail         1722 
+
+zxie         45 
+
+ShathaJY         1226 
+
+Pravacana_Mats         273 
+
+ReedTechCorp         211 
+
+DLWeb_Seb         40 
+
+prwheatley         1230 
+
+DrDanetteAllen         115 
+
+zimeon         92 
+
+JCDLConf         101 
+
+daniel_rehn         7907 
+
+zittrain         35411 
+
+MildlyBored         7 
+
+paulwalk         1535 
+
+ruyhliu         279 
+
+robina_naazli         776 
+
+K4arkive         270 
+
+landlibrarian         806 
+
+jcdl2015         66 
+
+jcdl2016         77 
+
+f_nanni         315 
+
+rodwittenberg         208 
+
+JoeLemanski         6 
+
+SIGIR17         185 
+
+andrewjbtw         795 
+
+TPDL2016         82 
+
+Antenna_Lab         1097 
+
+futuresma         684 
+
+erikaris         50 
+
+GraemeEarl         1403 
+
+gjfowler         10 
+
+cbmrccc         1134 
+
+johanna_lautner         107 
+
+dchud         2020 
+
+ziadmatni         57 
+
+LarryWilson1942         38 
+
+AliShamim333         9 
+
+forschungsdaten         1091 
+
+Strollerman         322 
+
+documentnow         163 
+
+silvertje         4584 
+
+jessili         221 
+
+migcosta         121 
+
+taylor_amy         362 
+
+mgome0072         6 
+
+HistWebArchives         474 
+
+oducs         108 
+
+jsicot         983 
+
+SalimChemlal         34 
+
+momof3inov         13 
+
+abugseye         624 
+
+SteveMcLaugh         1113 
+
+katjakra         0 
+
+Arkivum         1259 
+
+ODURugby_         741 
+
+kberberi         531 
+
+seahorseadmirer         2 
+
+noradreamer90         148 
+
+archivportal         644 
+
+oreficeplumbing         454 
+
+RSSNewsmaster         1074 
+
+CarlyKristie269         1976 
+
+lisapizzapie         2 
+
+DigiCultureKCL         889 
+
+unmil         139 
+
+isi2015conf         314 
+
+saraaubry         231 
+
+renevoorburg         97 
+
+mamund         7931 
+
+Naima3704         3 
+
+thabing         37 
+
+AutonomyIncub8r         226 
+
+meterz1         3 
+
+KevinClemmons         51 
+
+WebART12         145 
+
+rundavidrun         2197 
+
+LizCohee         21 
+
+KarolHolu         34 
+
+vector_ctrl         209 
+
+xabuci         568 
+
+n_audenaert         61 
+
+technelily         212 
+
+saschel         1393 
+
+brettbobley         5825 
+
+doppelen         117 
+
+dwhitenist         293 
+
+webrecorder_io         481 
+
+ArchivingIt         48 
+
+BergisJules         1430 
+
+unstablearchive         423 
+
+CrowNaito         0 
+
+5280BigData         1086 
+
+desouzatech         1107 
+
+NeilMonday         40 
+
+JayNuetron         1073 
+
+_matef         149 
+
+downey_cara         133 
+
+keesone         129 
+
+squealermusic         162 
+
+PoorOldMoot         5 
+
+j_w_baker         3020 
+
+EJWalters         2827 
+
+JoshCowls         803 
+
+nichworby         10 
+
+shajid333         212 
+
+elunca         886 
+
+jotschirr         160 
+
+maikhanhlam         131 
+
+JStoddert         6 
+
+Thaer_samar         18 
+
+__jeremi         4 
+
+cyberlaw         4255 
+
+masroorfreaks         28 
+
+narfman0         40 
+
+txkuhn         553 
+
+Shaaban_Migo         4 
+
+plamen26968325         19 
+
+zeonfernando         14 
+
+annediaz01         87 
+
+HiveBestHumor         12484 
+
+iPRESconf         147 
+
+perrycollins         691 
+
+djw0952         460 
+
+trinketapp         2268 
+
+NetLab_dk         45 
+
+save4use         1423 
+
+JonesWCaleb         287 
+
+Reloaded2Boot         170 
+
+GetDownODU         371 
+
+westfood         88 
+
+nanopub_org         210 
+
+peterkz_swe         2600 
+
+NgYewli         13 
+
+MonarchsAimHigh         718 
+
+goodenjm         5 
+
+EmeraldLibrary         689 
+
+Paisadalo         382 
+
+ELittley         5 
+
+NielsBr         505 
+
+bindonlane         448 
+
+lnsails         2 
+
+jasonmarkwebber         775 
+
+BrosephElder         17 
+
+J_IreneTieman         230 
+
+hdo003         0 
+
+BrianDavison         544 
+
+this_phillips         177 
+
+PapachriL         15 
+
+wosp2015         37 
+
+lintool         8216 
+
+e_mccain         295 
+
+_akisato         1112 
+
+topgolfvabeach         1828 
+
+tjowens         5612 
+
+uskudarli         604 
+
+impactzoneco         209 
+
+ODUAuxServices         172 
+
+ForgetITProject         228 
+
+petrknoth         168 
+
+EmeraldIKM         597 
+
+liblaura         323 
+
+JohnChangGWU         23 
+
+ijdl         105 
+
+9ulovesu     53
+
+majetisiri 7
+Total: 170879
+Mean: 944
+Median: 221
+Standard Deviation: 98.0255068847

@@ -1,0 +1,1489 @@
+Name: Simeon_Warner_428351
+Number of Friends: 244
+Counter: 1
+
+
+Name: Drew_Munro_1314586
+Number of Friends: 575
+Counter: 2
+
+
+Name: Mat_Kelly_2004483
+Number of Friends: 421
+Counter: 3
+
+
+Name: Benjamin_Lok_2037943
+Number of Friends: 539
+Counter: 4
+
+
+Name: Camden_Elliott_Matherne_2726573
+Number of Friends: 784
+Counter: 5
+
+
+Name: Barbara_Burns_Moran_2733048
+Number of Friends: 317
+Counter: 6
+
+
+Name: Jewel_Ward_2737920
+Number of Friends: 448
+Counter: 7
+
+
+Name: Geneva_Henry_3007408
+Number of Friends: 236
+Counter: 8
+
+
+Name: Timothy_DiLauro_5412190
+Number of Friends: 561
+Counter: 9
+
+
+Name: Maria_Lugo_62305409
+Number of Friends: 833
+Counter: 10
+
+
+Name: Frank_McCown_71006425
+Number of Friends: 752
+Counter: 11
+
+
+Name: Hollie_Chessman_158200046
+Number of Friends: 763
+Counter: 12
+
+
+Name: Sally_Jo_Cunningham_219400036
+Number of Friends: 155
+Counter: 13
+
+
+Name: Leslie_Carr_286100028
+Number of Friends: 195
+Counter: 14
+
+
+Name: James_Florance_501351702
+Number of Friends: 0
+Counter: 15
+
+
+Name: Aravind_Elango_501979798
+Number of Friends: 555
+Counter: 16
+
+
+Name: Hussein_Suleman_507489265
+Number of Friends: 404
+Counter: 17
+
+
+Name: John_Kunze_519498974
+Number of Friends: 242
+Counter: 18
+
+
+Name: Carlton_Northern_519733049
+Number of Friends: 425
+Counter: 19
+
+
+Name: Kat_Hagedorn_526596003
+Number of Friends: 366
+Counter: 20
+
+
+Name: Jeffery_Shipman_530578112
+Number of Friends: 321
+Counter: 21
+
+
+Name: Hany_SalahEldeen_533655322
+Number of Friends: 1194
+Counter: 22
+
+
+Name: Gregory_Crane_533760327
+Number of Friends: 259
+Counter: 23
+
+
+Name: Terry_Harrison_539787122
+Number of Friends: 427
+Counter: 24
+
+
+Name: Lillian_Riley_Cassel_540716259
+Number of Friends: 297
+Counter: 25
+
+
+Name: Gary_Marchionini_547615058
+Number of Friends: 400
+Counter: 26
+
+
+Name: Mariana_Rocha_Biojone_548326700
+Number of Friends: 592
+Counter: 27
+
+
+Name: Leslie_Johnston_557892051
+Number of Friends: 424
+Counter: 28
+
+
+Name: Sharon_Spencer_Stilwell_563987168
+Number of Friends: 555
+Counter: 29
+
+
+Name: Brian_E_McCallum_572141447
+Number of Friends: 97
+Counter: 30
+
+
+Name: Rob_Sanderson_577727081
+Number of Friends: 387
+Counter: 31
+
+
+Name: Joy_Gooden_580143423
+Number of Friends: 0
+Counter: 32
+
+
+Name: Ahmed_AlSum_586360620
+Number of Friends: 622
+Counter: 33
+
+
+Name: Richard_Furuta_593936930
+Number of Friends: 337
+Counter: 34
+
+
+Name: Robert_H._McDonald_599323265
+Number of Friends: 496
+Counter: 35
+
+
+Name: Edward_Alan_Fox_599625230
+Number of Friends: 705
+Counter: 36
+
+
+Name: Stephanie_Beene_600979724
+Number of Friends: 819
+Counter: 37
+
+
+Name: Frank_Shipman_607086959
+Number of Friends: 229
+Counter: 38
+
+
+Name: Mister-Photon_Haptic-Interface_Furr_612379469
+Number of Friends: 1521
+Counter: 39
+
+
+Name: Chris_Eudy_614944765
+Number of Friends: 324
+Counter: 40
+
+
+Name: Dan_Berkery_620983997
+Number of Friends: 208
+Counter: 41
+
+
+Name: Alex_Wade_621830892
+Number of Friends: 619
+Counter: 42
+
+
+Name: George_Buchanan_626751005
+Number of Friends: 227
+Counter: 43
+
+
+Name: Ricardo_Baeza-Yates_626922806
+Number of Friends: 3187
+Counter: 44
+
+
+Name: J._Stephen_Downie_627353461
+Number of Friends: 351
+Counter: 45
+
+
+Name: Miriam_Blake_629373114
+Number of Friends: 181
+Counter: 46
+
+
+Name: Tom_Habing_633427937
+Number of Friends: 104
+Counter: 47
+
+
+Name: Leonardo_Candela_642081606
+Number of Friends: 295
+Counter: 48
+
+
+Name: Michelle_Gallinger_644659453
+Number of Friends: 233
+Counter: 49
+
+
+Name: Michele_Clark_Weigle_646802723
+Number of Friends: 348
+Counter: 50
+
+
+Name: Ron_Larsen_659975887
+Number of Friends: 87
+Counter: 51
+
+
+Name: Archie_Warnock_662686691
+Number of Friends: 1512
+Counter: 52
+
+
+Name: Kim_Beveridge_662936475
+Number of Friends: 0
+Counter: 53
+
+
+Name: Alfredo_Sánchez_667415071
+Number of Friends: 0
+Counter: 54
+
+
+Name: Stefan_Gradmann_667599333
+Number of Friends: 190
+Counter: 55
+
+
+Name: Marianne_Afifi_678208232
+Number of Friends: 363
+Counter: 56
+
+
+Name: Fred_Moore_681873479
+Number of Friends: 62
+Counter: 57
+
+
+Name: Kara_Killough_685393946
+Number of Friends: 315
+Counter: 58
+
+
+Name: Andy_Powell_688401359
+Number of Friends: 449
+Counter: 59
+
+
+Name: Byron_Marshall_700018169
+Number of Friends: 186
+Counter: 60
+
+
+Name: Sarah_Shreeves_700331809
+Number of Friends: 0
+Counter: 61
+
+
+Name: Unmil_Karadkar_712152575
+Number of Friends: 380
+Counter: 62
+
+
+Name: MacKenzie_Smith_725264657
+Number of Friends: 297
+Counter: 63
+
+
+Name: Rachel_Frick_727524620
+Number of Friends: 359
+Counter: 64
+
+
+Name: Will_Osman_746359821
+Number of Friends: 274
+Counter: 65
+
+
+Name: Dave_Abel_757423848
+Number of Friends: 245
+Counter: 66
+
+
+Name: Sawood_Alam_761351671
+Number of Friends: 425
+Counter: 67
+
+
+Name: Margy_Avery_764552761
+Number of Friends: 562
+Counter: 68
+
+
+Name: Martin_Halbert_772704652
+Number of Friends: 275
+Counter: 69
+
+
+Name: Karim_B._Boughida_776832537
+Number of Friends: 240
+Counter: 70
+
+
+Name: Eric_Everton_801709758
+Number of Friends: 510
+Counter: 71
+
+
+Name: Jim_Karamanis_1002487220
+Number of Friends: 409
+Counter: 72
+
+
+Name: Elizabeth_Hoag-Carhart_1018916054
+Number of Friends: 245
+Counter: 73
+
+
+Name: Calvin_Edward_Mackey_1032702371
+Number of Friends: 1626
+Counter: 74
+
+
+Name: Jeroen_Bekaert_1047034137
+Number of Friends: 58
+Counter: 75
+
+
+Name: Scott_Schuetz_1052075705
+Number of Friends: 89
+Counter: 76
+
+
+Name: David_Fulker_1065550118
+Number of Friends: 278
+Counter: 77
+
+
+Name: Joan_A._Smith_1070286998
+Number of Friends: 30
+Counter: 78
+
+
+Name: Gaby_Caro_1089079610
+Number of Friends: 580
+Counter: 79
+
+
+Name: Megan_Winget_1089292662
+Number of Friends: 197
+Counter: 80
+
+
+Name: Cynthia_Vaona_1094163001
+Number of Friends: 321
+Counter: 81
+
+
+Name: Art_Everett_1119784799
+Number of Friends: 276
+Counter: 82
+
+
+Name: Blades_Elliott_1136251245
+Number of Friends: 68
+Counter: 83
+
+
+Name: Julianne_Allen_1152991747
+Number of Friends: 168
+Counter: 84
+
+
+Name: Daryl_Schoolar_1158087636
+Number of Friends: 182
+Counter: 85
+
+
+Name: Kurt_Severance_1164060519
+Number of Friends: 124
+Counter: 86
+
+
+Name: Kristie_Sheldon-Davis_1179525213
+Number of Friends: 233
+Counter: 87
+
+
+Name: Allan_Hautz_1184037705
+Number of Friends: 552
+Counter: 88
+
+
+Name: Sally_Mauck_1243862786
+Number of Friends: 0
+Counter: 89
+
+
+Name: Denise_Kuftic_Scearce_1245164680
+Number of Friends: 131
+Counter: 90
+
+
+Name: Ellen_Stein_Beares_1245215699
+Number of Friends: 615
+Counter: 91
+
+
+Name: Gregg_Brooks_1245246929
+Number of Friends: 1346
+Counter: 92
+
+
+Name: Wayne_Setliff_1253060884
+Number of Friends: 436
+Counter: 93
+
+
+Name: Vivens_Ndatinya_1270376645
+Number of Friends: 770
+Counter: 94
+
+
+Name: Yuichiro_Russell_1273471221
+Number of Friends: 322
+Counter: 95
+
+
+Name: Richard_Weissler_1282857837
+Number of Friends: 93
+Counter: 96
+
+
+Name: Dan_Swaney_1321960327
+Number of Friends: 0
+Counter: 97
+
+
+Name: Steve_Velotas_1330934978
+Number of Friends: 94
+Counter: 98
+
+
+Name: Mike_Weisenborn_1347469298
+Number of Friends: 106
+Counter: 99
+
+
+Name: Michael_Austin_1348219015
+Number of Friends: 568
+Counter: 100
+
+
+Name: Laura_Garlow_Yarborough_1351315240
+Number of Friends: 170
+Counter: 101
+
+
+Name: Fran_Austin_1361602514
+Number of Friends: 143
+Counter: 102
+
+
+Name: Sandy_Esler_Ring_1377955545
+Number of Friends: 128
+Counter: 103
+
+
+Name: Amanda_Hall_1414300750
+Number of Friends: 220
+Counter: 104
+
+
+Name: Kerry_Gough_1427627702
+Number of Friends: 312
+Counter: 105
+
+
+Name: Scott_Kinkade_1442997544
+Number of Friends: 844
+Counter: 106
+
+
+Name: Jerome_McDonough_1443622535
+Number of Friends: 255
+Counter: 107
+
+
+Name: Johan_Bollen_1448621116
+Number of Friends: 420
+Counter: 108
+
+
+Name: Greg_Spencer_1455947597
+Number of Friends: 624
+Counter: 109
+
+
+Name: Gillian_Hurd_Peterson_1465634102
+Number of Friends: 204
+Counter: 110
+
+
+Name: Tyler_Walters_1466292932
+Number of Friends: 576
+Counter: 111
+
+
+Name: Norma_Farr_1486225556
+Number of Friends: 524
+Counter: 112
+
+
+Name: Lisa_Owsley_Rippy_1498184571
+Number of Friends: 168
+Counter: 113
+
+
+Name: Richard_Henry_Ashton_1504858110
+Number of Friends: 873
+Counter: 114
+
+
+Name: Michael_B._Witty_Jr_1508029527
+Number of Friends: 231
+Counter: 115
+
+
+Name: Matthew_Kesten_1522048141
+Number of Friends: 68
+Counter: 116
+
+
+Name: Marc_Richmond_1537839473
+Number of Friends: 443
+Counter: 117
+
+
+Name: Bonnie_Austin_Allen_1544306618
+Number of Friends: 65
+Counter: 118
+
+
+Name: Robert_Gordeaux_1580113991
+Number of Friends: 0
+Counter: 119
+
+
+Name: Martin_Klein_1600046296
+Number of Friends: 241
+Counter: 120
+
+
+Name: Sebastian_Parreirinha_1601360234
+Number of Friends: 86
+Counter: 121
+
+
+Name: Cynthia_Suarez_Eudy_1611457057
+Number of Friends: 144
+Counter: 122
+
+
+Name: Joseph_Kaplan_1623901873
+Number of Friends: 0
+Counter: 123
+
+
+Name: Lori_Toms_1624683201
+Number of Friends: 54
+Counter: 124
+
+
+Name: Brenda_F._Nelson_1649694346
+Number of Friends: 172
+Counter: 125
+
+
+Name: Frank_C._Thames_1673270131
+Number of Friends: 60
+Counter: 126
+
+
+Name: Karen_Spencer_1674799889
+Number of Friends: 250
+Counter: 127
+
+
+Name: William_Glidden_Jr_1680663468
+Number of Friends: 43
+Counter: 128
+
+
+Name: Bill_Lefurgy_1716902390
+Number of Friends: 183
+Counter: 129
+
+
+Name: Robin_Taylor_1761186121
+Number of Friends: 909
+Counter: 130
+
+
+Name: Joe_Reisel_1789491649
+Number of Friends: 94
+Counter: 131
+
+
+Name: Bob_Mathers_1833713834
+Number of Friends: 38
+Counter: 132
+
+
+Name: Jen_Dudley_Winter_100000005477295
+Number of Friends: 528
+Counter: 133
+
+
+Name: Michael_Milner_100000008814265
+Number of Friends: 0
+Counter: 134
+
+
+Name: Catherine_Kemble_Cronin_100000016520821
+Number of Friends: 0
+Counter: 135
+
+
+Name: Lloyd_Nelson_100000029886158
+Number of Friends: 40
+Counter: 136
+
+
+Name: Donna_Lynne_Nelson_Laney_100000031673611
+Number of Friends: 80
+Counter: 137
+
+
+Name: John_McManus_100000054164662
+Number of Friends: 108
+Counter: 138
+
+
+Name: Ashley_Michael_Flora_100000055482229
+Number of Friends: 231
+Counter: 139
+
+
+Name: Ray_Flora_100000062354804
+Number of Friends: 458
+Counter: 140
+
+
+Name: Scott_W_Laney_100000075283955
+Number of Friends: 41
+Counter: 141
+
+
+Name: Greg_Szalkowski_100000144053543
+Number of Friends: 42
+Counter: 142
+
+
+Name: Karen_Childers_100000154293671
+Number of Friends: 235
+Counter: 143
+
+
+Name: Larry_Boyd_100000170961411
+Number of Friends: 327
+Counter: 144
+
+
+Name: Brian_K._Saunders_100000250906441
+Number of Friends: 15
+Counter: 145
+
+
+Name: Seth_Littman_100000370562951
+Number of Friends: 187
+Counter: 146
+
+
+Name: Michael_Yager_100000372804951
+Number of Friends: 207
+Counter: 147
+
+
+Name: Cathy_Marshall_100000403754769
+Number of Friends: 165
+Counter: 148
+
+
+Name: Doug_Nelson_100000408020444
+Number of Friends: 7
+Counter: 149
+
+
+Name: Dale_Andrews_100000507601860
+Number of Friends: 77
+Counter: 150
+
+
+Name: Janet_Schultz_Brunelle_100000513240490
+Number of Friends: 308
+Counter: 151
+
+
+Name: Justin_F._Brunelle_100000566913334
+Number of Friends: 415
+Counter: 152
+
+
+Name: Trey_Arthur_100000685907969
+Number of Friends: 111
+Counter: 153
+
+
+Name: Dave_White_100000738402677
+Number of Friends: 328
+Counter: 154
+
+
+Name: Mike_Koch_100000819076703
+Number of Friends: 123
+Counter: 155
+
+
+Name: Joel_Carter_100000974828061
+Number of Friends: 104
+Counter: 156
+
+
+Name: Moustafa_Aly_100001030803006
+Number of Friends: 538
+Counter: 157
+
+
+Name: Paul_Ayris_100001047211393
+Number of Friends: 147
+Counter: 158
+
+
+Name: Steve_Bayer_100001277896146
+Number of Friends: 353
+Counter: 159
+
+
+Name: Brooks_Childers_100001314028384
+Number of Friends: 59
+Counter: 160
+
+
+Name: Mary_McManus_100001413471206
+Number of Friends: 41
+Counter: 161
+
+
+Name: Ashley_Song_100001577418333
+Number of Friends: 96
+Counter: 162
+
+
+Name: Dongwon_Lee_100002325489000
+Number of Friends: 85
+Counter: 163
+
+
+Name: Winnie_Elliott_100003091927266
+Number of Friends: 25
+Counter: 164
+
+
+Name: Thomas_Allen_100004566517987
+Number of Friends: 39
+Counter: 165
+
+
+Total: 55284
+Mean: 335
+Median: 244
+Standard Deviation: 368.852273953
+Simeon_Warner_428351
+
+Drew_Munro_1314586
+
+Mat_Kelly_2004483
+
+Benjamin_Lok_2037943
+
+Camden_Elliott_Matherne_2726573
+
+Barbara_Burns_Moran_2733048
+
+Jewel_Ward_2737920
+
+Geneva_Henry_3007408
+
+Timothy_DiLauro_5412190
+
+Maria_Lugo_62305409
+
+Frank_McCown_71006425
+
+Hollie_Chessman_158200046
+
+Sally_Jo_Cunningham_219400036
+
+Leslie_Carr_286100028
+
+James_Florance_501351702
+
+Aravind_Elango_501979798
+
+Hussein_Suleman_507489265
+
+John_Kunze_519498974
+
+Carlton_Northern_519733049
+
+Kat_Hagedorn_526596003
+
+Jeffery_Shipman_530578112
+
+Hany_SalahEldeen_533655322
+
+Gregory_Crane_533760327
+
+Terry_Harrison_539787122
+
+Lillian_Riley_Cassel_540716259
+
+Gary_Marchionini_547615058
+
+Mariana_Rocha_Biojone_548326700
+
+Leslie_Johnston_557892051
+
+Sharon_Spencer_Stilwell_563987168
+
+Brian_E_McCallum_572141447
+
+Rob_Sanderson_577727081
+
+Joy_Gooden_580143423
+
+Ahmed_AlSum_586360620
+
+Richard_Furuta_593936930
+
+Robert_H._McDonald_599323265
+
+Edward_Alan_Fox_599625230
+
+Stephanie_Beene_600979724
+
+Frank_Shipman_607086959
+
+Mister-Photon_Haptic-Interface_Furr_612379469
+
+Chris_Eudy_614944765
+
+Dan_Berkery_620983997
+
+Alex_Wade_621830892
+
+George_Buchanan_626751005
+
+Ricardo_Baeza-Yates_626922806
+
+J._Stephen_Downie_627353461
+
+Miriam_Blake_629373114
+
+Tom_Habing_633427937
+
+Leonardo_Candela_642081606
+
+Michelle_Gallinger_644659453
+
+Michele_Clark_Weigle_646802723
+
+Ron_Larsen_659975887
+
+Archie_Warnock_662686691
+
+Kim_Beveridge_662936475
+
+Alfredo_Sánchez_667415071
+
+Stefan_Gradmann_667599333
+
+Marianne_Afifi_678208232
+
+Fred_Moore_681873479
+
+Kara_Killough_685393946
+
+Andy_Powell_688401359
+
+Byron_Marshall_700018169
+
+Sarah_Shreeves_700331809
+
+Unmil_Karadkar_712152575
+
+MacKenzie_Smith_725264657
+
+Rachel_Frick_727524620
+
+Will_Osman_746359821
+
+Dave_Abel_757423848
+
+Sawood_Alam_761351671
+
+Margy_Avery_764552761
+
+Martin_Halbert_772704652
+
+Karim_B._Boughida_776832537
+
+Eric_Everton_801709758
+
+Jim_Karamanis_1002487220
+
+Elizabeth_Hoag-Carhart_1018916054
+
+Calvin_Edward_Mackey_1032702371
+
+Jeroen_Bekaert_1047034137
+
+Scott_Schuetz_1052075705
+
+David_Fulker_1065550118
+
+Joan_A._Smith_1070286998
+
+Gaby_Caro_1089079610
+
+Megan_Winget_1089292662
+
+Cynthia_Vaona_1094163001
+
+Art_Everett_1119784799
+
+Blades_Elliott_1136251245
+
+Julianne_Allen_1152991747
+
+Daryl_Schoolar_1158087636
+
+Kurt_Severance_1164060519
+
+Kristie_Sheldon-Davis_1179525213
+
+Allan_Hautz_1184037705
+
+Sally_Mauck_1243862786
+
+Denise_Kuftic_Scearce_1245164680
+
+Ellen_Stein_Beares_1245215699
+
+Gregg_Brooks_1245246929
+
+Wayne_Setliff_1253060884
+
+Vivens_Ndatinya_1270376645
+
+Yuichiro_Russell_1273471221
+
+Richard_Weissler_1282857837
+
+Dan_Swaney_1321960327
+
+Steve_Velotas_1330934978
+
+Mike_Weisenborn_1347469298
+
+Michael_Austin_1348219015
+
+Laura_Garlow_Yarborough_1351315240
+
+Fran_Austin_1361602514
+
+Sandy_Esler_Ring_1377955545
+
+Amanda_Hall_1414300750
+
+Kerry_Gough_1427627702
+
+Scott_Kinkade_1442997544
+
+Jerome_McDonough_1443622535
+
+Johan_Bollen_1448621116
+
+Greg_Spencer_1455947597
+
+Gillian_Hurd_Peterson_1465634102
+
+Tyler_Walters_1466292932
+
+Norma_Farr_1486225556
+
+Lisa_Owsley_Rippy_1498184571
+
+Richard_Henry_Ashton_1504858110
+
+Michael_B._Witty_Jr_1508029527
+
+Matthew_Kesten_1522048141
+
+Marc_Richmond_1537839473
+
+Bonnie_Austin_Allen_1544306618
+
+Robert_Gordeaux_1580113991
+
+Martin_Klein_1600046296
+
+Sebastian_Parreirinha_1601360234
+
+Cynthia_Suarez_Eudy_1611457057
+
+Joseph_Kaplan_1623901873
+
+Lori_Toms_1624683201
+
+Brenda_F._Nelson_1649694346
+
+Frank_C._Thames_1673270131
+
+Karen_Spencer_1674799889
+
+William_Glidden_Jr_1680663468
+
+Bill_Lefurgy_1716902390
+
+Robin_Taylor_1761186121
+
+Joe_Reisel_1789491649
+
+Bob_Mathers_1833713834
+
+Jen_Dudley_Winter_100000005477295
+
+Michael_Milner_100000008814265
+
+Catherine_Kemble_Cronin_100000016520821
+
+Lloyd_Nelson_100000029886158
+
+Donna_Lynne_Nelson_Laney_100000031673611
+
+John_McManus_100000054164662
+
+Ashley_Michael_Flora_100000055482229
+
+Ray_Flora_100000062354804
+
+Scott_W_Laney_100000075283955
+
+Greg_Szalkowski_100000144053543
+
+Karen_Childers_100000154293671
+
+Larry_Boyd_100000170961411
+
+Brian_K._Saunders_100000250906441
+
+Seth_Littman_100000370562951
+
+Michael_Yager_100000372804951
+
+Cathy_Marshall_100000403754769
+
+Doug_Nelson_100000408020444
+
+Dale_Andrews_100000507601860
+
+Janet_Schultz_Brunelle_100000513240490
+
+Justin_F._Brunelle_100000566913334
+
+Trey_Arthur_100000685907969
+
+Dave_White_100000738402677
+
+Mike_Koch_100000819076703
+
+Joel_Carter_100000974828061
+
+Moustafa_Aly_100001030803006
+
+Paul_Ayris_100001047211393
+
+Steve_Bayer_100001277896146
+
+Brooks_Childers_100001314028384
+
+Mary_McManus_100001413471206
+
+Ashley_Song_100001577418333
+
+Dongwon_Lee_100002325489000
+
+Winnie_Elliott_100003091927266
+
+Thomas_Allen_100004566517987
+
+244
+
+575
+
+421
+
+539
+
+784
+
+317
+
+448
+
+236
+
+561
+
+833
+
+752
+
+763
+
+155
+
+195
+
+0
+
+555
+
+404
+
+242
+
+425
+
+366
+
+321
+
+1194
+
+259
+
+427
+
+297
+
+400
+
+592
+
+424
+
+555
+
+97
+
+387
+
+0
+
+622
+
+337
+
+496
+
+705
+
+819
+
+229
+
+1521
+
+324
+
+208
+
+619
+
+227
+
+3187
+
+351
+
+181
+
+104
+
+295
+
+233
+
+348
+
+87
+
+1512
+
+0
+
+0
+
+190
+
+363
+
+62
+
+315
+
+449
+
+186
+
+0
+
+380
+
+297
+
+359
+
+274
+
+245
+
+425
+
+562
+
+275
+
+240
+
+510
+
+409
+
+245
+
+1626
+
+58
+
+89
+
+278
+
+30
+
+580
+
+197
+
+321
+
+276
+
+68
+
+168
+
+182
+
+124
+
+233
+
+552
+
+0
+
+131
+
+615
+
+1346
+
+436
+
+770
+
+322
+
+93
+
+0
+
+94
+
+106
+
+568
+
+170
+
+143
+
+128
+
+220
+
+312
+
+844
+
+255
+
+420
+
+624
+
+204
+
+576
+
+524
+
+168
+
+873
+
+231
+
+68
+
+443
+
+65
+
+0
+
+241
+
+86
+
+144
+
+0
+
+54
+
+172
+
+60
+
+250
+
+43
+
+183
+
+909
+
+94
+
+38
+
+528
+
+0
+
+0
+
+40
+
+80
+
+108
+
+231
+
+458
+
+41
+
+42
+
+235
+
+327
+
+15
+
+187
+
+207
+
+165
+
+7
+
+77
+
+308
+
+415
+
+111
+
+328
+
+123
+
+104
+
+538
+
+147
+
+353
+
+59
+
+41
+
+96
+
+85
+
+25
+
+39
+

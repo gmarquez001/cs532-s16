@@ -1,0 +1,3 @@
+All code in oldCode, Report, revised3, revised4, src credited to Kevin Clemmons and O'reilly publishing.
+
+AS9_p1 credited to Gabriel Marquez

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Infowars</title>
+	<atom:link href="http://www.infowars.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.infowars.com</link>
+	<description>Alex Jones&#039; Infowars: There&#039;s a war on for your mind!</description>
+	<lastBuildDate>Thu, 21 Apr 2016 23:08:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>The Cosmic Mugging Of Our Species</title>
+		<link>http://www.infowars.com/the-cosmic-mugging-of-our-species/</link>
+		<comments>http://www.infowars.com/the-cosmic-mugging-of-our-species/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 22:50:05 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282527</guid>
+		<description><![CDATA[The human spirit that refuses to submit is beginning to rise.]]></description>
+		<wfw:commentRss>http://www.infowars.com/the-cosmic-mugging-of-our-species/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+		<item>
+		<title>Media Agrees SJW&#8217;s Are KKK-Level Dangerous To Freedom</title>
+		<link>http://www.infowars.com/media-agrees-sjws-are-kkk-level-dangerous-to-freedom/</link>
+		<comments>http://www.infowars.com/media-agrees-sjws-are-kkk-level-dangerous-to-freedom/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 22:25:15 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282521</guid>
+		<description><![CDATA[Music publications present Billy Corgan interview with surprisingly little bias.]]></description>
+		<wfw:commentRss>http://www.infowars.com/media-agrees-sjws-are-kkk-level-dangerous-to-freedom/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pick Your Poison: Dirty Water Or Polluted Air</title>
+		<link>http://www.infowars.com/pick-your-poison-dirty-water-or-polluted-air/</link>
+		<comments>http://www.infowars.com/pick-your-poison-dirty-water-or-polluted-air/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 22:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282512</guid>
+		<description><![CDATA[Contaminated resources becoming all to common in America.]]></description>
+		<wfw:commentRss>http://www.infowars.com/pick-your-poison-dirty-water-or-polluted-air/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hate Crime Hoaxes Sweep Nation</title>
+		<link>http://www.infowars.com/hate-crime-hoaxes-sweep-nation/</link>
+		<comments>http://www.infowars.com/hate-crime-hoaxes-sweep-nation/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 21:19:55 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282497</guid>
+		<description><![CDATA[Multiple cases of false accusations pop up around the country]]></description>
+		<wfw:commentRss>http://www.infowars.com/hate-crime-hoaxes-sweep-nation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Listen to an FBI “Honeypot” on the Job</title>
+		<link>http://www.infowars.com/listen-to-an-fbi-honeypot-on-the-job/</link>
+		<comments>http://www.infowars.com/listen-to-an-fbi-honeypot-on-the-job/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 21:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282502</guid>
+		<description><![CDATA[Did feds attempt to steer man towards jihad?]]></description>
+		<wfw:commentRss>http://www.infowars.com/listen-to-an-fbi-honeypot-on-the-job/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Drones Ironically Banned from Flying in London During Obama’s Visit</title>
+		<link>http://www.infowars.com/drones-ironically-banned-from-flying-in-london-during-obamas-visit/</link>
+		<comments>http://www.infowars.com/drones-ironically-banned-from-flying-in-london-during-obamas-visit/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 21:07:16 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282492</guid>
+		<description><![CDATA[The U.S. president is well-known for his use of military drones in Iraq, Syria, Afghanistan, Pakistan and Yemen.]]></description>
+		<wfw:commentRss>http://www.infowars.com/drones-ironically-banned-from-flying-in-london-during-obamas-visit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why The Fed Wants To Memory Hole Andrew Jackson</title>
+		<link>http://www.infowars.com/why-the-fed-wants-to-memory-hole-andrew-jackson/</link>
+		<comments>http://www.infowars.com/why-the-fed-wants-to-memory-hole-andrew-jackson/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 21:03:47 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282487</guid>
+		<description><![CDATA[Jackson was an enemy of the banks who used his face on their currency for years.]]></description>
+		<wfw:commentRss>http://www.infowars.com/why-the-fed-wants-to-memory-hole-andrew-jackson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Genetically Modified CRISPR-Mushroom Bypasses USDA Regulations</title>
+		<link>http://www.infowars.com/new-genetically-modified-crispr-mushroom-bypasses-usda-regulations/</link>
+		<comments>http://www.infowars.com/new-genetically-modified-crispr-mushroom-bypasses-usda-regulations/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 21:02:40 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282486</guid>
+		<description><![CDATA[First CRISPR-edited organism to receive green light.]]></description>
+		<wfw:commentRss>http://www.infowars.com/new-genetically-modified-crispr-mushroom-bypasses-usda-regulations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hillary- Last Globalist Standing For POTUS</title>
+		<link>http://www.infowars.com/hillary-last-globalist-standing-for-potus/</link>
+		<comments>http://www.infowars.com/hillary-last-globalist-standing-for-potus/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:49:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282472</guid>
+		<description><![CDATA[Hillary is the only true globalist candidate who still has a shot at winning election.]]></description>
+		<wfw:commentRss>http://www.infowars.com/hillary-last-globalist-standing-for-potus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FBI Paid More Than $1 Million to Hack San Bernardino iPhone</title>
+		<link>http://www.infowars.com/fbi-paid-more-than-1-million-to-hack-san-bernardino-iphone/</link>
+		<comments>http://www.infowars.com/fbi-paid-more-than-1-million-to-hack-san-bernardino-iphone/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282482</guid>
+		<description><![CDATA[FBI Director James Comey says government ‘paid a lot’ for tool, but ‘it was worth it’.]]></description>
+		<wfw:commentRss>http://www.infowars.com/fbi-paid-more-than-1-million-to-hack-san-bernardino-iphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>State Department Office Removed Benghazi Files After Congressional Subpoena</title>
+		<link>http://www.infowars.com/state-department-office-removed-benghazi-files-after-congressional-subpoena/</link>
+		<comments>http://www.infowars.com/state-department-office-removed-benghazi-files-after-congressional-subpoena/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:29:57 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282476</guid>
+		<description><![CDATA[Release of records delayed over a year due to removal.]]></description>
+		<wfw:commentRss>http://www.infowars.com/state-department-office-removed-benghazi-files-after-congressional-subpoena/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>As Queen Turns 90, Report Values British Monarchy at $84 Billion</title>
+		<link>http://www.infowars.com/as-queen-turns-90-report-values-british-monarchy-at-84-billion/</link>
+		<comments>http://www.infowars.com/as-queen-turns-90-report-values-british-monarchy-at-84-billion/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:26:44 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282421</guid>
+		<description><![CDATA[Report claims royal family contributed more than a billion pounds to British economy.]]></description>
+		<wfw:commentRss>http://www.infowars.com/as-queen-turns-90-report-values-british-monarchy-at-84-billion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The President, the Court and Immigration</title>
+		<link>http://www.infowars.com/the-president-the-court-and-immigration/</link>
+		<comments>http://www.infowars.com/the-president-the-court-and-immigration/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:19:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282471</guid>
+		<description><![CDATA[Can Congress voluntarily give some of its powers to the president?]]></description>
+		<wfw:commentRss>http://www.infowars.com/the-president-the-court-and-immigration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ukraine&#8217;s New Speaker Of Parliament Is A Neo-Nazi</title>
+		<link>http://www.infowars.com/ukraines-new-speaker-of-parliament-is-a-neo-nazi/</link>
+		<comments>http://www.infowars.com/ukraines-new-speaker-of-parliament-is-a-neo-nazi/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:14:59 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282462</guid>
+		<description><![CDATA[Post-coup Ukraine is incredibly hospitable to neo-fascists.]]></description>
+		<wfw:commentRss>http://www.infowars.com/ukraines-new-speaker-of-parliament-is-a-neo-nazi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Schizophrenia and Autism Linked to Low Levels of B12 in the Brain</title>
+		<link>http://www.infowars.com/schizophrenia-and-autism-linked-to-low-levels-of-b12-in-the-brain/</link>
+		<comments>http://www.infowars.com/schizophrenia-and-autism-linked-to-low-levels-of-b12-in-the-brain/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:09:08 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282457</guid>
+		<description><![CDATA[A gradual and consistent decline over many years.]]></description>
+		<wfw:commentRss>http://www.infowars.com/schizophrenia-and-autism-linked-to-low-levels-of-b12-in-the-brain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Secrets Of The Ring Of Fire Revealed</title>
+		<link>http://www.infowars.com/secrets-of-the-ring-of-fire-revealed/</link>
+		<comments>http://www.infowars.com/secrets-of-the-ring-of-fire-revealed/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 20:03:18 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Science & Tech]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282447</guid>
+		<description><![CDATA[Areas that usually don't experience earthquakes should be prepared.]]></description>
+		<wfw:commentRss>http://www.infowars.com/secrets-of-the-ring-of-fire-revealed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>EPA Boss Ignores Navajo Pleas For Help, Makes Speeches Instead</title>
+		<link>http://www.infowars.com/epa-boss-ignores-navajo-pleas-for-help-makes-speeches-instead/</link>
+		<comments>http://www.infowars.com/epa-boss-ignores-navajo-pleas-for-help-makes-speeches-instead/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 19:54:01 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282451</guid>
+		<description><![CDATA[“The way the EPA has responded to the concerns of the tribes affected by this spill is unacceptable."]]></description>
+		<wfw:commentRss>http://www.infowars.com/epa-boss-ignores-navajo-pleas-for-help-makes-speeches-instead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lawmakers optimistic secret 9/11 pages will soon see release</title>
+		<link>http://www.infowars.com/lawmakers-optimistic-secret-911-pages-will-soon-see-release/</link>
+		<comments>http://www.infowars.com/lawmakers-optimistic-secret-911-pages-will-soon-see-release/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 19:47:59 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282442</guid>
+		<description><![CDATA[“It’s just more and more spotlight on the issue, and that’s really what we’ve been hoping for..."]]></description>
+		<wfw:commentRss>http://www.infowars.com/lawmakers-optimistic-secret-911-pages-will-soon-see-release/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FBI paid more than $1.3M to hack terrorist’s iPhone</title>
+		<link>http://www.infowars.com/fbi-paid-more-than-1-3m-to-hack-terrorists-iphone/</link>
+		<comments>http://www.infowars.com/fbi-paid-more-than-1-3m-to-hack-terrorists-iphone/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 19:37:34 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282437</guid>
+		<description><![CDATA[The payment “was, in my view, worth it” Comey said on Thursday.]]></description>
+		<wfw:commentRss>http://www.infowars.com/fbi-paid-more-than-1-3m-to-hack-terrorists-iphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CIA to pay $400K in benefits to Benghazi victim&#8217;s family</title>
+		<link>http://www.infowars.com/cia-to-pay-400k-in-benefits-to-benghazi-victims-family/</link>
+		<comments>http://www.infowars.com/cia-to-pay-400k-in-benefits-to-benghazi-victims-family/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 19:29:05 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282432</guid>
+		<description><![CDATA[“The benefits are available to survivors of federal employees killed overseas..."]]></description>
+		<wfw:commentRss>http://www.infowars.com/cia-to-pay-400k-in-benefits-to-benghazi-victims-family/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IRS Can Track Your Cell Phone, but Leaves Billions in Taxes Uncollected</title>
+		<link>http://www.infowars.com/irs-can-track-your-cell-phone-but-leaves-billions-in-taxes-uncollected/</link>
+		<comments>http://www.infowars.com/irs-can-track-your-cell-phone-but-leaves-billions-in-taxes-uncollected/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 19:20:18 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282422</guid>
+		<description><![CDATA[IRS Commissioner John Koskinen says the IRS uses its Stingray to hunt down fraudsters.]]></description>
+		<wfw:commentRss>http://www.infowars.com/irs-can-track-your-cell-phone-but-leaves-billions-in-taxes-uncollected/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Janet Yellen&#8217;s &#8216;Death Cross&#8217;</title>
+		<link>http://www.infowars.com/janet-yellens-death-cross/</link>
+		<comments>http://www.infowars.com/janet-yellens-death-cross/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:51:12 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282411</guid>
+		<description><![CDATA[Higher stocks no longer pulls the wool over average-joe's eyes.]]></description>
+		<wfw:commentRss>http://www.infowars.com/janet-yellens-death-cross/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Woman Murdered in Church, Surveillance Shows Man in Police SWAT Gear</title>
+		<link>http://www.infowars.com/woman-murdered-in-church-surveillance-shows-man-in-police-swat-gear/</link>
+		<comments>http://www.infowars.com/woman-murdered-in-church-surveillance-shows-man-in-police-swat-gear/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:50:39 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282406</guid>
+		<description><![CDATA[Police released eerie surveillance video of a person dressed in tactical gear walking around the church before woman's murder. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/woman-murdered-in-church-surveillance-shows-man-in-police-swat-gear/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Venus&#8217; Poles Colder Than Anywhere on Earth</title>
+		<link>http://www.infowars.com/venus-poles-colder-than-anywhere-on-earth/</link>
+		<comments>http://www.infowars.com/venus-poles-colder-than-anywhere-on-earth/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:49:17 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Science & Tech]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282407</guid>
+		<description><![CDATA[Average temperature of -250°F.]]></description>
+		<wfw:commentRss>http://www.infowars.com/venus-poles-colder-than-anywhere-on-earth/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Are Dangerous Polio Vaccines Still Being Given?</title>
+		<link>http://www.infowars.com/are-dangerous-polio-vaccines-still-being-given/</link>
+		<comments>http://www.infowars.com/are-dangerous-polio-vaccines-still-being-given/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:36:37 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Science & Tech]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282396</guid>
+		<description><![CDATA[All outdated versions of the vaccine were supposed to be discarded.]]></description>
+		<wfw:commentRss>http://www.infowars.com/are-dangerous-polio-vaccines-still-being-given/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>56 Percent Of Americans Say Pot Should Be Legal — An All-Time High</title>
+		<link>http://www.infowars.com/56-percent-of-americans-say-pot-should-be-legal-an-all-time-high/</link>
+		<comments>http://www.infowars.com/56-percent-of-americans-say-pot-should-be-legal-an-all-time-high/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:34:04 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282386</guid>
+		<description><![CDATA[Fifty-two percent of Americans said they believe alcohol is more dangerous than marijuana, while nine percent think marijuana is more dangerous.]]></description>
+		<wfw:commentRss>http://www.infowars.com/56-percent-of-americans-say-pot-should-be-legal-an-all-time-high/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PC Crowd Gets Bankster Enemy Thrown Off $20 Bill</title>
+		<link>http://www.infowars.com/pc-crowd-gets-bankster-warrior-thrown-off-20-bill/</link>
+		<comments>http://www.infowars.com/pc-crowd-gets-bankster-warrior-thrown-off-20-bill/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:14:33 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282382</guid>
+		<description><![CDATA[Worshippers of Big Government blame Andrew Jackson for recession created by Second Bank of US. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/pc-crowd-gets-bankster-warrior-thrown-off-20-bill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Exclusive: Woman Mugged By Cruz Operatives Speak Out</title>
+		<link>http://www.infowars.com/exclusive-woman-mugged-by-cruz-operatives-speak-out/</link>
+		<comments>http://www.infowars.com/exclusive-woman-mugged-by-cruz-operatives-speak-out/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 18:03:12 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Infowars Special Reports]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282356</guid>
+		<description><![CDATA[Conservative icon fights back against attempt to silence her support for Trump.]]></description>
+		<wfw:commentRss>http://www.infowars.com/exclusive-woman-mugged-by-cruz-operatives-speak-out/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Video: Man Attacked, Left For Dead; Bystanders Do Nothing</title>
+		<link>http://www.infowars.com/video-man-attacked-left-for-dead-bystanders-do-nothing/</link>
+		<comments>http://www.infowars.com/video-man-attacked-left-for-dead-bystanders-do-nothing/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 17:49:45 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282367</guid>
+		<description><![CDATA[One person runs up and appears to steal his wallet and a crowd immediately surrounds him...]]></description>
+		<wfw:commentRss>http://www.infowars.com/video-man-attacked-left-for-dead-bystanders-do-nothing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>County Leaders Call For Sheriff’s Resignation After Police Report, 911 Tapes Released</title>
+		<link>http://www.infowars.com/county-leaders-call-for-sheriffs-resignation-after-police-report-911-tapes-released/</link>
+		<comments>http://www.infowars.com/county-leaders-call-for-sheriffs-resignation-after-police-report-911-tapes-released/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 17:48:57 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282361</guid>
+		<description><![CDATA["The sheriff is drunk and he just punched me in the eye."]]></description>
+		<wfw:commentRss>http://www.infowars.com/county-leaders-call-for-sheriffs-resignation-after-police-report-911-tapes-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Did the Chemtrail Flu Kill Prince and Merle Haggard?</title>
+		<link>http://www.infowars.com/did-the-chemtrail-flu-kill-prince-and-merle-haggard/</link>
+		<comments>http://www.infowars.com/did-the-chemtrail-flu-kill-prince-and-merle-haggard/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 17:45:59 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Infowars Exclusives]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282357</guid>
+		<description><![CDATA[Was Prince killed by the chemtrails he and Haggard spoke out against?]]></description>
+		<wfw:commentRss>http://www.infowars.com/did-the-chemtrail-flu-kill-prince-and-merle-haggard/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Video: SJW Tells Ex-Soviet Citizen He Should Be Thrown in a Labor Camp For Being &#8220;Racist&#8221;</title>
+		<link>http://www.infowars.com/video-social-justice-warrior-tells-ex-soviet-citizen-he-should-be-thrown-in-a-labor-camp-for-being-racist/</link>
+		<comments>http://www.infowars.com/video-social-justice-warrior-tells-ex-soviet-citizen-he-should-be-thrown-in-a-labor-camp-for-being-racist/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:56:46 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Joseph Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+		<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282352</guid>
+		<description><![CDATA["I believe in the dictatorship of the proletariat".]]></description>
+		<wfw:commentRss>http://www.infowars.com/video-social-justice-warrior-tells-ex-soviet-citizen-he-should-be-thrown-in-a-labor-camp-for-being-racist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Video: Americans Sign Petition to Ban Cash</title>
+		<link>http://www.infowars.com/video-americans-sign-petition-to-ban-cash/</link>
+		<comments>http://www.infowars.com/video-americans-sign-petition-to-ban-cash/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282316</guid>
+		<description><![CDATA[Californians support abolishing cash to usher in digital currency.]]></description>
+		<wfw:commentRss>http://www.infowars.com/video-americans-sign-petition-to-ban-cash/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ESPN Facing Backlash After Firing Schilling Over Anti-PC Views</title>
+		<link>http://www.infowars.com/espn-facing-backlash-after-firing-schilling-over-anti-pc-views/</link>
+		<comments>http://www.infowars.com/espn-facing-backlash-after-firing-schilling-over-anti-pc-views/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:50:45 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Infowars Exclusives]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282331</guid>
+		<description><![CDATA[Network's decision to terminate Schilling backfiring.]]></description>
+		<wfw:commentRss>http://www.infowars.com/espn-facing-backlash-after-firing-schilling-over-anti-pc-views/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Donald Trump Releases Video: An Emergency Warning To The American People</title>
+		<link>http://www.infowars.com/donald-trump-releases-video-an-emergency-warning-to-the-american-people/</link>
+		<comments>http://www.infowars.com/donald-trump-releases-video-an-emergency-warning-to-the-american-people/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:34:20 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282327</guid>
+		<description><![CDATA[Emergency alert warns of planned economic collapse of the west.]]></description>
+		<wfw:commentRss>http://www.infowars.com/donald-trump-releases-video-an-emergency-warning-to-the-american-people/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Survey Shows Plunging Public Support for TTIP in U.S. and Germany</title>
+		<link>http://www.infowars.com/survey-shows-plunging-public-support-for-ttip-in-u-s-and-germany/</link>
+		<comments>http://www.infowars.com/survey-shows-plunging-public-support-for-ttip-in-u-s-and-germany/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:10:55 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Global Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282301</guid>
+		<description><![CDATA[In the United States, only 18 percent support the deal compared to 53 percent in 2014...]]></description>
+		<wfw:commentRss>http://www.infowars.com/survey-shows-plunging-public-support-for-ttip-in-u-s-and-germany/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>U.S. Spy Court Judge Dismissed Privacy Advocate&#8217;s Concerns About Data Use</title>
+		<link>http://www.infowars.com/u-s-spy-court-judge-dismissed-privacy-advocates-concerns-about-data-use/</link>
+		<comments>http://www.infowars.com/u-s-spy-court-judge-dismissed-privacy-advocates-concerns-about-data-use/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:09:12 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282296</guid>
+		<description><![CDATA[FBI also storing encrypted communications obtained in intelligence investigations until they can be decrypted and analyzed by specialists.]]></description>
+		<wfw:commentRss>http://www.infowars.com/u-s-spy-court-judge-dismissed-privacy-advocates-concerns-about-data-use/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Top Scientist: Have The Biblical End Of Times Begun?</title>
+		<link>http://www.infowars.com/top-scientist-have-the-biblical-end-of-times-begun/</link>
+		<comments>http://www.infowars.com/top-scientist-have-the-biblical-end-of-times-begun/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 16:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Global Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282287</guid>
+		<description><![CDATA[Dangerous seismic activity levels have many experts worried.]]></description>
+		<wfw:commentRss>http://www.infowars.com/top-scientist-have-the-biblical-end-of-times-begun/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cross-border Tunnel is Longest Ever in California</title>
+		<link>http://www.infowars.com/cross-border-tunnel-is-longest-ever-in-california/</link>
+		<comments>http://www.infowars.com/cross-border-tunnel-is-longest-ever-in-california/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Open Borders]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282292</guid>
+		<description><![CDATA[Authorities seized 2,242 pounds of cocaine and 14,000 pounds of marijuana...]]></description>
+		<wfw:commentRss>http://www.infowars.com/cross-border-tunnel-is-longest-ever-in-california/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nebraska Just Abolished Civil Forfeiture, Now Requires A Criminal Conviction To Take Property</title>
+		<link>http://www.infowars.com/nebraska-just-abolished-civil-forfeiture-now-requires-a-criminal-conviction-to-take-property/</link>
+		<comments>http://www.infowars.com/nebraska-just-abolished-civil-forfeiture-now-requires-a-criminal-conviction-to-take-property/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:48:24 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282291</guid>
+		<description><![CDATA[Newly signed law provides sweeping reforms.]]></description>
+		<wfw:commentRss>http://www.infowars.com/nebraska-just-abolished-civil-forfeiture-now-requires-a-criminal-conviction-to-take-property/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>UK&#8217;s Spy Agencies Hold a Massive Database of Ordinary Citizens</title>
+		<link>http://www.infowars.com/uks-spy-agencies-hold-a-massive-database-of-ordinary-citizens/</link>
+		<comments>http://www.infowars.com/uks-spy-agencies-hold-a-massive-database-of-ordinary-citizens/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:44:29 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282271</guid>
+		<description><![CDATA[The government has been collecting so much information on regular Brits that even internal reviews warned of crossing the line, according to documents published by a rights group.]]></description>
+		<wfw:commentRss>http://www.infowars.com/uks-spy-agencies-hold-a-massive-database-of-ordinary-citizens/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trump: Dumping Jackson From $20 Bill Is About &#8220;Pure Political Correctness&#8221;</title>
+		<link>http://www.infowars.com/trump-dumping-jackson-from-20-bill-is-about-pure-political-correctness/</link>
+		<comments>http://www.infowars.com/trump-dumping-jackson-from-20-bill-is-about-pure-political-correctness/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+		<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282276</guid>
+		<description><![CDATA[Doesn't care what bathroom trans-genders use.]]></description>
+		<wfw:commentRss>http://www.infowars.com/trump-dumping-jackson-from-20-bill-is-about-pure-political-correctness/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Monumental Unraveling Truth Behind 9/11</title>
+		<link>http://www.infowars.com/the-monumental-unraveling-truth-behind-911/</link>
+		<comments>http://www.infowars.com/the-monumental-unraveling-truth-behind-911/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:40:56 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282267</guid>
+		<description><![CDATA[The globalist narrative is being dismantled as more truth comes out.]]></description>
+		<wfw:commentRss>http://www.infowars.com/the-monumental-unraveling-truth-behind-911/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cambodia Bans Documentary About Murdered Rainforest Activist, Everyone Watches Online Instead</title>
+		<link>http://www.infowars.com/cambodia-bans-documentary-about-murdered-rainforest-activist-everyone-watches-online-instead/</link>
+		<comments>http://www.infowars.com/cambodia-bans-documentary-about-murdered-rainforest-activist-everyone-watches-online-instead/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 15:40:42 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282206</guid>
+		<description><![CDATA[The environmentalist was shot dead by military police in 2012.]]></description>
+		<wfw:commentRss>http://www.infowars.com/cambodia-bans-documentary-about-murdered-rainforest-activist-everyone-watches-online-instead/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Report: Authorities Buying More Riot Control Gear Over Fear of Civil Unrest Sweeping America</title>
+		<link>http://www.infowars.com/report-authorities-buying-more-riot-control-gear-over-fear-of-riots-sweeping-america/</link>
+		<comments>http://www.infowars.com/report-authorities-buying-more-riot-control-gear-over-fear-of-riots-sweeping-america/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:56:38 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Joseph Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Police State]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282026</guid>
+		<description><![CDATA[Concerns about Ferguson-style disorder continue to build.]]></description>
+		<wfw:commentRss>http://www.infowars.com/report-authorities-buying-more-riot-control-gear-over-fear-of-riots-sweeping-america/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Guardian: Correcting People&#8217;s Bad Grammar is Racist</title>
+		<link>http://www.infowars.com/the-guardian-correcting-peoples-bad-grammar-is-racist/</link>
+		<comments>http://www.infowars.com/the-guardian-correcting-peoples-bad-grammar-is-racist/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:55:44 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Joseph Watson]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+		<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282266</guid>
+		<description><![CDATA[Just shut up and listen, argues newspaper's data editor.]]></description>
+		<wfw:commentRss>http://www.infowars.com/the-guardian-correcting-peoples-bad-grammar-is-racist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ESPN Fires Curt Schilling For Conservative Views</title>
+		<link>http://www.infowars.com/espn-fires-curt-schilling-for-conservative-views/</link>
+		<comments>http://www.infowars.com/espn-fires-curt-schilling-for-conservative-views/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:54:08 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Hot News]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282236</guid>
+		<description><![CDATA[Schilling shared a meme on Facebook that clearly showed he was against transgender individuals using bathrooms against their biological sex. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/espn-fires-curt-schilling-for-conservative-views/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Target Stores Open Women&#8217;s Bathrooms, Changing Rooms to Men</title>
+		<link>http://www.infowars.com/target-stores-open-womens-bathrooms-changing-rooms-to-men/</link>
+		<comments>http://www.infowars.com/target-stores-open-womens-bathrooms-changing-rooms-to-men/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:53:24 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Hot News]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282242</guid>
+		<description><![CDATA[“Everyone deserves to feel like they belong.”]]></description>
+		<wfw:commentRss>http://www.infowars.com/target-stores-open-womens-bathrooms-changing-rooms-to-men/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CBC won’t name Lethbridge swimming pool sex assault suspect — because he’s a Muslim migrant</title>
+		<link>http://www.infowars.com/cbc-wont-name-lethbridge-swimming-pool-sex-assault-suspect-because-hes-a-muslim-migrant/</link>
+		<comments>http://www.infowars.com/cbc-wont-name-lethbridge-swimming-pool-sex-assault-suspect-because-hes-a-muslim-migrant/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:52:10 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+		<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282231</guid>
+		<description><![CDATA[The mainstream media pretends to care about bullying and rape culture and sexism. But they don’t if it’s a Muslim migrant behind it.]]></description>
+		<wfw:commentRss>http://www.infowars.com/cbc-wont-name-lethbridge-swimming-pool-sex-assault-suspect-because-hes-a-muslim-migrant/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Campus pro-abortion display: Baby-shaped cookies with heads broken off</title>
+		<link>http://www.infowars.com/campus-pro-abortion-display-baby-shaped-cookies-with-heads-broken-off/</link>
+		<comments>http://www.infowars.com/campus-pro-abortion-display-baby-shaped-cookies-with-heads-broken-off/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:46:01 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Hot News]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282247</guid>
+		<description><![CDATA["The pro-abortion folks were eating the baby cookies or breaking the heads off and laughing."]]></description>
+		<wfw:commentRss>http://www.infowars.com/campus-pro-abortion-display-baby-shaped-cookies-with-heads-broken-off/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Laura Ingraham: ‘How far will establishment go to kill off Trump?’</title>
+		<link>http://www.infowars.com/laura-ingraham-how-far-will-establishment-go-to-kill-off-trump/</link>
+		<comments>http://www.infowars.com/laura-ingraham-how-far-will-establishment-go-to-kill-off-trump/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+		<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282246</guid>
+		<description><![CDATA[“The only question is, how far will the Republican establishment go to kill off this guy who is the most popular of all the other candidates?”]]></description>
+		<wfw:commentRss>http://www.infowars.com/laura-ingraham-how-far-will-establishment-go-to-kill-off-trump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apocalyptic Drone Footage Shows Giant Cracks In The Earth On Japan’s Southern Island</title>
+		<link>http://www.infowars.com/apocalyptic-drone-footage-shows-giant-cracks-in-the-earth-on-japans-southern-island/</link>
+		<comments>http://www.infowars.com/apocalyptic-drone-footage-shows-giant-cracks-in-the-earth-on-japans-southern-island/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 11:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Watson]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Science & Tech]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282222</guid>
+		<description><![CDATA[Near the end of last week, a magnitude 6.5 earthquake was quickly followed by a magnitude 7.3 earthquake just 28 hours later.]]></description>
+		<wfw:commentRss>http://www.infowars.com/apocalyptic-drone-footage-shows-giant-cracks-in-the-earth-on-japans-southern-island/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Billy Corgan Questions Facebook Allowing &#8216;Kill Trump&#8217; Page</title>
+		<link>http://www.infowars.com/billy-corgan-questions-facebook-allowing-kill-trump-page/</link>
+		<comments>http://www.infowars.com/billy-corgan-questions-facebook-allowing-kill-trump-page/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 09:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Infowars Exclusives]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282201</guid>
+		<description><![CDATA[Smashing Pumpkins leader encourages thoughtful wariness of social media corporations.]]></description>
+		<wfw:commentRss>http://www.infowars.com/billy-corgan-questions-facebook-allowing-kill-trump-page/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alex Jones Remembers Roddy Piper</title>
+		<link>http://www.infowars.com/alex-jones-remembers-roddy-piper/</link>
+		<comments>http://www.infowars.com/alex-jones-remembers-roddy-piper/#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 00:17:29 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282211</guid>
+		<description><![CDATA[Life of 'They Live' actor celebrated.]]></description>
+		<wfw:commentRss>http://www.infowars.com/alex-jones-remembers-roddy-piper/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ISIS wants to launch chemical or nuclear attacks – EU/NATO security chiefs</title>
+		<link>http://www.infowars.com/isis-wants-to-launch-chemical-or-nuclear-attacks-eunato-security-chiefs/</link>
+		<comments>http://www.infowars.com/isis-wants-to-launch-chemical-or-nuclear-attacks-eunato-security-chiefs/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 22:36:07 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[World at War]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282192</guid>
+		<description><![CDATA[Whistleblower reveals potential ease of access to nuclear facilities.]]></description>
+		<wfw:commentRss>http://www.infowars.com/isis-wants-to-launch-chemical-or-nuclear-attacks-eunato-security-chiefs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>White Man Claims He&#8217;s a 7-Year-Old Chinese Female, Liberal Students Agree</title>
+		<link>http://www.infowars.com/white-man-claims-hes-a-7-year-old-chinese-female-liberal-students-agree/</link>
+		<comments>http://www.infowars.com/white-man-claims-hes-a-7-year-old-chinese-female-liberal-students-agree/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 22:35:44 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282151</guid>
+		<description><![CDATA["I feel like that's not my place as another human to say someone is wrong or to draw lines or boundaries."]]></description>
+		<wfw:commentRss>http://www.infowars.com/white-man-claims-hes-a-7-year-old-chinese-female-liberal-students-agree/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alex Jones Rant: The Corporate Borg, Assimilate Or Die!</title>
+		<link>http://www.infowars.com/alex-jones-rant-the-corporate-borg-assimilate-or-die/</link>
+		<comments>http://www.infowars.com/alex-jones-rant-the-corporate-borg-assimilate-or-die/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 21:02:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282081</guid>
+		<description><![CDATA[Elite attacking anyone who stands in their way, including Donald Trump.]]></description>
+		<wfw:commentRss>http://www.infowars.com/alex-jones-rant-the-corporate-borg-assimilate-or-die/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taliban strikes Kabul as US intervention falters in &#8216;graveyard of empires&#8217;</title>
+		<link>http://www.infowars.com/taliban-strikes-kabul-as-us-intervention-falters-in-graveyard-of-empires/</link>
+		<comments>http://www.infowars.com/taliban-strikes-kabul-as-us-intervention-falters-in-graveyard-of-empires/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:52:08 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Global Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282171</guid>
+		<description><![CDATA[Afghanistan was turned into a security, institutional and economic black hole. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/taliban-strikes-kabul-as-us-intervention-falters-in-graveyard-of-empires/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Syrian Air Force shuts down the Jihadist supply route to southern Aleppo</title>
+		<link>http://www.infowars.com/syrian-air-force-shuts-down-the-jihadist-supply-route-to-southern-aleppo/</link>
+		<comments>http://www.infowars.com/syrian-air-force-shuts-down-the-jihadist-supply-route-to-southern-aleppo/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:47:39 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[War on Terror]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282166</guid>
+		<description><![CDATA[Conducted over 40 airstrikes over southern Aleppo.]]></description>
+		<wfw:commentRss>http://www.infowars.com/syrian-air-force-shuts-down-the-jihadist-supply-route-to-southern-aleppo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Family of journalist slain by ISIS sues Syria</title>
+		<link>http://www.infowars.com/family-of-journalist-slain-by-isis-sues-syria/</link>
+		<comments>http://www.infowars.com/family-of-journalist-slain-by-isis-sues-syria/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:40:29 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[World at War]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282156</guid>
+		<description><![CDATA[Lawsuit filed Monday in federal court in Washington seeks tens of millions in damages from Syria. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/family-of-journalist-slain-by-isis-sues-syria/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App Store Censorship and FBI Hacking Proposed at Congressional Crypto Hearing</title>
+		<link>http://www.infowars.com/app-store-censorship-and-fbi-hacking-proposed-at-congressional-crypto-hearing/</link>
+		<comments>http://www.infowars.com/app-store-censorship-and-fbi-hacking-proposed-at-congressional-crypto-hearing/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282136</guid>
+		<description><![CDATA[Proposal could leave app store the task of ensuring no software uses “warrant-proof” cryptographic options.]]></description>
+		<wfw:commentRss>http://www.infowars.com/app-store-censorship-and-fbi-hacking-proposed-at-congressional-crypto-hearing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We’re victims of European terrorism, Syrian negotiator tells euronews</title>
+		<link>http://www.infowars.com/were-victims-of-european-terrorism-syrian-negotiator-tells-euronews/</link>
+		<comments>http://www.infowars.com/were-victims-of-european-terrorism-syrian-negotiator-tells-euronews/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:33:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[World at War]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282141</guid>
+		<description><![CDATA[Peace talks fall into disarray in Geneva.]]></description>
+		<wfw:commentRss>http://www.infowars.com/were-victims-of-european-terrorism-syrian-negotiator-tells-euronews/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Syria truce violators should be put on UN terror list: Russia FM</title>
+		<link>http://www.infowars.com/syria-truce-violators-should-be-put-on-un-terror-list-russia-fm/</link>
+		<comments>http://www.infowars.com/syria-truce-violators-should-be-put-on-un-terror-list-russia-fm/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:28:58 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[World at War]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282132</guid>
+		<description><![CDATA[The ceasefire, brokered by the US and Russia, went into effect on February 27 across Syria. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/syria-truce-violators-should-be-put-on-un-terror-list-russia-fm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GOP Congressman: IRS Too Busy Spying On Americans To Do Its Job</title>
+		<link>http://www.infowars.com/gop-congressman-irs-too-busy-spying-on-americans-to-do-its-job/</link>
+		<comments>http://www.infowars.com/gop-congressman-irs-too-busy-spying-on-americans-to-do-its-job/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:28:50 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282127</guid>
+		<description><![CDATA["“So the very agency that has a $385 billion tax gap can’t even do half of the recommendations GAO says..."]]></description>
+		<wfw:commentRss>http://www.infowars.com/gop-congressman-irs-too-busy-spying-on-americans-to-do-its-job/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>US ranks 41st on global press freedom list</title>
+		<link>http://www.infowars.com/us-ranks-41st-on-global-press-freedom-list/</link>
+		<comments>http://www.infowars.com/us-ranks-41st-on-global-press-freedom-list/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Police State]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282121</guid>
+		<description><![CDATA[Despite being enshrined in the Constitution, freedom of the press “has encountered a major obstacle” in the U.S.]]></description>
+		<wfw:commentRss>http://www.infowars.com/us-ranks-41st-on-global-press-freedom-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SJWs Accuse Snapchat of ‘Racism’ Over Bob Marley Weed Day Filter</title>
+		<link>http://www.infowars.com/sjws-accuse-snapchat-of-racism-over-bob-marley-weed-day-filter/</link>
+		<comments>http://www.infowars.com/sjws-accuse-snapchat-of-racism-over-bob-marley-weed-day-filter/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 20:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Infowars Exclusives]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282086</guid>
+		<description><![CDATA[Perpetually offended SJWs still ignore the greatest oppressor of all: the state.]]></description>
+		<wfw:commentRss>http://www.infowars.com/sjws-accuse-snapchat-of-racism-over-bob-marley-weed-day-filter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Obama Admin Unsure If Iran Spent $3 Billion in New Cash on Terrorism</title>
+		<link>http://www.infowars.com/obama-admin-unsure-if-iran-spent-3-billion-in-new-cash-on-terrorism/</link>
+		<comments>http://www.infowars.com/obama-admin-unsure-if-iran-spent-3-billion-in-new-cash-on-terrorism/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:54:42 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282111</guid>
+		<description><![CDATA[Obama officials ‘on road’ to help banks give Iran money back.]]></description>
+		<wfw:commentRss>http://www.infowars.com/obama-admin-unsure-if-iran-spent-3-billion-in-new-cash-on-terrorism/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Obama Admin Awards $270K to Controversial Islamic Charity</title>
+		<link>http://www.infowars.com/obama-admin-awards-270k-to-controversial-islamic-charity/</link>
+		<comments>http://www.infowars.com/obama-admin-awards-270k-to-controversial-islamic-charity/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:49:43 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282101</guid>
+		<description><![CDATA[Group has been outlawed in Israel and UAE for supporting Hamas.]]></description>
+		<wfw:commentRss>http://www.infowars.com/obama-admin-awards-270k-to-controversial-islamic-charity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bernie Will Deliver His Supporters to Hillary</title>
+		<link>http://www.infowars.com/bernie-will-deliver-his-supporters-to-hillary/</link>
+		<comments>http://www.infowars.com/bernie-will-deliver-his-supporters-to-hillary/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:44:53 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282076</guid>
+		<description><![CDATA[Prospect of Trump presidency will drive progressives into Clinton camp. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/bernie-will-deliver-his-supporters-to-hillary/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Montana Sued Over Gun Carry Law</title>
+		<link>http://www.infowars.com/montana-sued-over-gun-carry-law/</link>
+		<comments>http://www.infowars.com/montana-sued-over-gun-carry-law/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:40:34 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282087</guid>
+		<description><![CDATA[Gun group wants eligibility for legal immigrants.]]></description>
+		<wfw:commentRss>http://www.infowars.com/montana-sued-over-gun-carry-law/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>After Receiving $191 Million in Taxpayer-Backed Loans, Spanish Solar Company Files for Bankruptcy</title>
+		<link>http://www.infowars.com/after-receiving-191-million-in-taxpayer-backed-loans-spanish-solar-company-files-for-bankruptcy/</link>
+		<comments>http://www.infowars.com/after-receiving-191-million-in-taxpayer-backed-loans-spanish-solar-company-files-for-bankruptcy/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:25:22 +0000</pubDate>
+		<dc:creator><![CDATA[Mikael Thalen]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281971</guid>
+		<description><![CDATA[Of the $316 million in financing Ex-Im authorized, the bank disbursed $191 million to Abengoa and its subsidiaries.]]></description>
+		<wfw:commentRss>http://www.infowars.com/after-receiving-191-million-in-taxpayer-backed-loans-spanish-solar-company-files-for-bankruptcy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rap Artist Threatens Trump Assassination!</title>
+		<link>http://www.infowars.com/rap-artist-threatens-trump-assassination/</link>
+		<comments>http://www.infowars.com/rap-artist-threatens-trump-assassination/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:14:38 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282072</guid>
+		<description><![CDATA[Media promotes song calling for riots, will they be held responsible when it happens?]]></description>
+		<wfw:commentRss>http://www.infowars.com/rap-artist-threatens-trump-assassination/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8216;White people don&#8217;t know what it&#8217;s like&#8217; Bernie Sanders Meme Contest Winner</title>
+		<link>http://www.infowars.com/white-people-dont-know-what-its-like-bernie-sanders-meme-contest-winner/</link>
+		<comments>http://www.infowars.com/white-people-dont-know-what-its-like-bernie-sanders-meme-contest-winner/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:05:16 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281482</guid>
+		<description><![CDATA[Winner receives $1,000 cash prize.]]></description>
+		<wfw:commentRss>http://www.infowars.com/white-people-dont-know-what-its-like-bernie-sanders-meme-contest-winner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trump Is 100% A 9/11 Truther, Closet Patriot</title>
+		<link>http://www.infowars.com/trump-is-100-a-911-truther-closet-patriot/</link>
+		<comments>http://www.infowars.com/trump-is-100-a-911-truther-closet-patriot/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:01:05 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282062</guid>
+		<description><![CDATA[Trump may be the sleeping giant the "conspiracy" community has been waiting for.]]></description>
+		<wfw:commentRss>http://www.infowars.com/trump-is-100-a-911-truther-closet-patriot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Study: &#8216;Global Warming&#8217; Actually Making Weather BETTER</title>
+		<link>http://www.infowars.com/global-warming-actually-making-weather-better/</link>
+		<comments>http://www.infowars.com/global-warming-actually-making-weather-better/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 19:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Global Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282012</guid>
+		<description><![CDATA[80 per cent of Americans are benefiting from nicer conditions than 40 years ago...]]></description>
+		<wfw:commentRss>http://www.infowars.com/global-warming-actually-making-weather-better/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gov&#8217;t Officials Threatened Festival Over Anti-Vaccine Film</title>
+		<link>http://www.infowars.com/govt-officials-threatened-festival-over-anti-vaccine-film/</link>
+		<comments>http://www.infowars.com/govt-officials-threatened-festival-over-anti-vaccine-film/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:46:03 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282056</guid>
+		<description><![CDATA[Direct gov't ties to suppressing free speech of filmmaker should wake up many.]]></description>
+		<wfw:commentRss>http://www.infowars.com/govt-officials-threatened-festival-over-anti-vaccine-film/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>James Grant Points Out US is Broke, Left Goes Nuts</title>
+		<link>http://www.infowars.com/james-grant-points-out-us-is-broke-left-goes-nuts/</link>
+		<comments>http://www.infowars.com/james-grant-points-out-us-is-broke-left-goes-nuts/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:27:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282051</guid>
+		<description><![CDATA[Unfortunately for us, James Grant is right.]]></description>
+		<wfw:commentRss>http://www.infowars.com/james-grant-points-out-us-is-broke-left-goes-nuts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>George Washington’s Assault Weapon For InfoWars</title>
+		<link>http://www.infowars.com/george-washingtons-assault-weapon-for-infowars/</link>
+		<comments>http://www.infowars.com/george-washingtons-assault-weapon-for-infowars/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:27:40 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282036</guid>
+		<description><![CDATA[The Revolutionary War was sparked by attempted gun confiscation, and we must not forget our history.]]></description>
+		<wfw:commentRss>http://www.infowars.com/george-washingtons-assault-weapon-for-infowars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Minimum Wage: A Common Rhetorical Trick</title>
+		<link>http://www.infowars.com/minimum-wage-a-common-rhetorical-trick/</link>
+		<comments>http://www.infowars.com/minimum-wage-a-common-rhetorical-trick/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:23:38 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282037</guid>
+		<description><![CDATA[What Target did is not a minimum wage.]]></description>
+		<wfw:commentRss>http://www.infowars.com/minimum-wage-a-common-rhetorical-trick/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Don&#8217;t Bernie and Progressives Live Communally Now?</title>
+		<link>http://www.infowars.com/why-dont-bernie-and-progressives-live-communally-now/</link>
+		<comments>http://www.infowars.com/why-dont-bernie-and-progressives-live-communally-now/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:10:10 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282027</guid>
+		<description><![CDATA[Progressives hate hearing that every rule and regulation implies violence for noncompliance.]]></description>
+		<wfw:commentRss>http://www.infowars.com/why-dont-bernie-and-progressives-live-communally-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lindsey Graham To 9/11 Families: “Shut Up, You Don’t Get a Lawyer”</title>
+		<link>http://www.infowars.com/lindsey-graham-to-911-families-shut-up-you-dont-get-a-lawyer/</link>
+		<comments>http://www.infowars.com/lindsey-graham-to-911-families-shut-up-you-dont-get-a-lawyer/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:08:42 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[War on Terror]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282002</guid>
+		<description><![CDATA[Senator attempting to silence connections between Saudis and CIA?]]></description>
+		<wfw:commentRss>http://www.infowars.com/lindsey-graham-to-911-families-shut-up-you-dont-get-a-lawyer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Slavery and Freedom</title>
+		<link>http://www.infowars.com/slavery-and-freedom/</link>
+		<comments>http://www.infowars.com/slavery-and-freedom/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 18:03:03 +0000</pubDate>
+		<dc:creator><![CDATA[Kit Daniels]]></dc:creator>
+				<category><![CDATA[Economic Crisis]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=282007</guid>
+		<description><![CDATA[Liberty creates more wealth for everyone than slave labor once provided for the masters.]]></description>
+		<wfw:commentRss>http://www.infowars.com/slavery-and-freedom/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trump Takes New York, Closer to Shutting the Door on Cruz</title>
+		<link>http://www.infowars.com/trump-takes-new-york-closer-to-shutting-the-door-on-cruz/</link>
+		<comments>http://www.infowars.com/trump-takes-new-york-closer-to-shutting-the-door-on-cruz/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:46:37 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281991</guid>
+		<description><![CDATA[“Indiana may very well determine the outcome of this race. If Trump wins Indiana, it’s likely all over.”]]></description>
+		<wfw:commentRss>http://www.infowars.com/trump-takes-new-york-closer-to-shutting-the-door-on-cruz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Big Victory For Trump In New York, Now Back to Work</title>
+		<link>http://www.infowars.com/big-victory-for-trump-in-new-york-now-back-to-work/</link>
+		<comments>http://www.infowars.com/big-victory-for-trump-in-new-york-now-back-to-work/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:46:24 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Infowars Special Reports]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281986</guid>
+		<description><![CDATA[GOP frontrunner continues winning and focuses on next states.]]></description>
+		<wfw:commentRss>http://www.infowars.com/big-victory-for-trump-in-new-york-now-back-to-work/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Internal campaign memo projects Trump will win 1,400 delegates at GOP convention</title>
+		<link>http://www.infowars.com/internal-campaign-memo-projects-trump-will-win-1400-delegates-at-gop-convention/</link>
+		<comments>http://www.infowars.com/internal-campaign-memo-projects-trump-will-win-1400-delegates-at-gop-convention/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[U.S. News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281996</guid>
+		<description><![CDATA[Trump's commanding win in the New York primary is "YUGE." ]]></description>
+		<wfw:commentRss>http://www.infowars.com/internal-campaign-memo-projects-trump-will-win-1400-delegates-at-gop-convention/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cuba&#8217;s aging leaders to remain in power years longer</title>
+		<link>http://www.infowars.com/cubas-aging-leaders-to-remain-in-power-years-longer/</link>
+		<comments>http://www.infowars.com/cubas-aging-leaders-to-remain-in-power-years-longer/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:38:49 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281981</guid>
+		<description><![CDATA[Castro says nearing the end of his life.]]></description>
+		<wfw:commentRss>http://www.infowars.com/cubas-aging-leaders-to-remain-in-power-years-longer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>France Bills McDonald&#8217;s $341 Million for Unpaid Tax &#8211; Report</title>
+		<link>http://www.infowars.com/france-bills-mcdonalds-341-million-for-unpaid-tax-report/</link>
+		<comments>http://www.infowars.com/france-bills-mcdonalds-341-million-for-unpaid-tax-report/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:36:40 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281966</guid>
+		<description><![CDATA[Unpaid taxes on profits believed to have been funneled through Luxembourg and Switzerland...]]></description>
+		<wfw:commentRss>http://www.infowars.com/france-bills-mcdonalds-341-million-for-unpaid-tax-report/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anti-Free Speech Movement Is Here: Billy Corgan</title>
+		<link>http://www.infowars.com/anti-free-speech-movement-is-here-billy-corgan/</link>
+		<comments>http://www.infowars.com/anti-free-speech-movement-is-here-billy-corgan/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:35:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281962</guid>
+		<description><![CDATA[SJW's being mobilized to attack the First Amendment of patriots around the country.]]></description>
+		<wfw:commentRss>http://www.infowars.com/anti-free-speech-movement-is-here-billy-corgan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mexico&#8217;s President Says he is Open to Legalizing Medical Marijuana</title>
+		<link>http://www.infowars.com/mexicos-president-says-he-is-open-to-legalizing-medical-marijuana/</link>
+		<comments>http://www.infowars.com/mexicos-president-says-he-is-open-to-legalizing-medical-marijuana/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:27:10 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281967</guid>
+		<description><![CDATA["We should be flexible to change that which has not yielded results..."]]></description>
+		<wfw:commentRss>http://www.infowars.com/mexicos-president-says-he-is-open-to-legalizing-medical-marijuana/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>North Carolina High School Reportedly Opens Indoor Shooting Range</title>
+		<link>http://www.infowars.com/north-carolina-high-school-reportedly-opens-indoor-shooting-range/</link>
+		<comments>http://www.infowars.com/north-carolina-high-school-reportedly-opens-indoor-shooting-range/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:24:45 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281942</guid>
+		<description><![CDATA[Must undergo extensive training before they can participate in the activities at the range.]]></description>
+		<wfw:commentRss>http://www.infowars.com/north-carolina-high-school-reportedly-opens-indoor-shooting-range/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Norwegian court: Mass killer Breivik&#8217;s rights were violated</title>
+		<link>http://www.infowars.com/norwegian-court-mass-killer-breiviks-rights-were-violated/</link>
+		<comments>http://www.infowars.com/norwegian-court-mass-killer-breiviks-rights-were-violated/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281957</guid>
+		<description><![CDATA[Breach of the European Convention on Human Rights.]]></description>
+		<wfw:commentRss>http://www.infowars.com/norwegian-court-mass-killer-breiviks-rights-were-violated/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Appeals ruling threatens key provision of North Carolina law</title>
+		<link>http://www.infowars.com/appeals-ruling-threatens-key-provision-of-north-carolina-law/</link>
+		<comments>http://www.infowars.com/appeals-ruling-threatens-key-provision-of-north-carolina-law/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:08:13 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[constitution]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281956</guid>
+		<description><![CDATA["If you are a recipient of federal education funds you cannot discriminate."]]></description>
+		<wfw:commentRss>http://www.infowars.com/appeals-ruling-threatens-key-provision-of-north-carolina-law/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Billy Corgan Quit Using Twitter</title>
+		<link>http://www.infowars.com/why-billy-corgan-quit-using-twitter/</link>
+		<comments>http://www.infowars.com/why-billy-corgan-quit-using-twitter/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 17:08:07 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281937</guid>
+		<description><![CDATA["You have to hurt them where it hurts, it's a numbers game."]]></description>
+		<wfw:commentRss>http://www.infowars.com/why-billy-corgan-quit-using-twitter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neocon Bill Kristol: Delegate Rigging is Like a Hustler Playing Poker</title>
+		<link>http://www.infowars.com/neocon-bill-kristol-delegate-rigging-is-like-a-hustler-playing-poker/</link>
+		<comments>http://www.infowars.com/neocon-bill-kristol-delegate-rigging-is-like-a-hustler-playing-poker/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:43:01 +0000</pubDate>
+		<dc:creator><![CDATA[Kurt Nimmo]]></dc:creator>
+				<category><![CDATA[Featured Stories]]></category>
+		<category><![CDATA[Tile]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281931</guid>
+		<description><![CDATA[Founder of “Never Trump” movement respects Cruz campaign dirty tricks.]]></description>
+		<wfw:commentRss>http://www.infowars.com/neocon-bill-kristol-delegate-rigging-is-like-a-hustler-playing-poker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DOJ Faces Legal Fight with EFF Over US Govt ‘secret’ Surveillance Requests</title>
+		<link>http://www.infowars.com/doj-faces-legal-fight-with-eff-over-us-govt-secret-surveillance-requests/</link>
+		<comments>http://www.infowars.com/doj-faces-legal-fight-with-eff-over-us-govt-secret-surveillance-requests/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:37:58 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Big Brother]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281926</guid>
+		<description><![CDATA[Lawsuit asks FISA Court for disclosure of secret court orders suspected to be used to force tech companies to unlock devices.]]></description>
+		<wfw:commentRss>http://www.infowars.com/doj-faces-legal-fight-with-eff-over-us-govt-secret-surveillance-requests/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Billy Corgan Warns Of Weaponized Zombies &#8211; Full Interview</title>
+		<link>http://www.infowars.com/billy-corgan-warns-of-weaponized-zombies-full-interview/</link>
+		<comments>http://www.infowars.com/billy-corgan-warns-of-weaponized-zombies-full-interview/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:32:37 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Infowars Special Reports]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281921</guid>
+		<description><![CDATA[SJW's are being used to suppress free speech and more.]]></description>
+		<wfw:commentRss>http://www.infowars.com/billy-corgan-warns-of-weaponized-zombies-full-interview/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fidel Castro Gives Rare Speech Saying He&#8217;s Nearing the End</title>
+		<link>http://www.infowars.com/fidel-castro-gives-rare-speech-saying-hes-nearing-the-end/</link>
+		<comments>http://www.infowars.com/fidel-castro-gives-rare-speech-saying-hes-nearing-the-end/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:26:34 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[World News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281916</guid>
+		<description><![CDATA["I'll be 90 years old soon," Castro said.]]></description>
+		<wfw:commentRss>http://www.infowars.com/fidel-castro-gives-rare-speech-saying-hes-nearing-the-end/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Britain has Exported £2.8bn of Arms to Saudi Arabia Since it Started Bombing Yemen in 2015</title>
+		<link>http://www.infowars.com/britain-has-exported-2-8bn-of-arms-to-saudi-arabia-since-it-started-bombing-yemen-in-2015/</link>
+		<comments>http://www.infowars.com/britain-has-exported-2-8bn-of-arms-to-saudi-arabia-since-it-started-bombing-yemen-in-2015/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:23:29 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[World at War]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281901</guid>
+		<description><![CDATA[Kingdom is the biggest recipient of UK arms exports despite repeated calls for an embargo.]]></description>
+		<wfw:commentRss>http://www.infowars.com/britain-has-exported-2-8bn-of-arms-to-saudi-arabia-since-it-started-bombing-yemen-in-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mitsubishi Admits Cheating Fuel Efficiency Tests</title>
+		<link>http://www.infowars.com/mitsubishi-admits-cheating-fuel-efficiency-tests/</link>
+		<comments>http://www.infowars.com/mitsubishi-admits-cheating-fuel-efficiency-tests/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:22:46 +0000</pubDate>
+		<dc:creator><![CDATA[Adan Salazar]]></dc:creator>
+				<category><![CDATA[Hot News]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281896</guid>
+		<description><![CDATA[Manipulated data covers four vehicle models and relates to some 625,000 vehicles. ]]></description>
+		<wfw:commentRss>http://www.infowars.com/mitsubishi-admits-cheating-fuel-efficiency-tests/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Polio Vaccines Being Burned &#038; Buried Worldwide</title>
+		<link>http://www.infowars.com/polio-vaccines-being-burned-buried-worldwide/</link>
+		<comments>http://www.infowars.com/polio-vaccines-being-burned-buried-worldwide/#respond</comments>
+		<pubDate>Wed, 20 Apr 2016 16:22:14 +0000</pubDate>
+		<dc:creator><![CDATA[Kelen M]]></dc:creator>
+				<category><![CDATA[Science & Tech]]></category>
+
+		<guid isPermaLink="false">http://www.infowars.com/?p=281882</guid>
+		<description><![CDATA[Out with the old and in with the new.]]></description>
+		<wfw:commentRss>http://www.infowars.com/polio-vaccines-being-burned-buried-worldwide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.519 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-21 18:08:30 -->
+
+<!-- Compression = gzip -->

@@ -11,19 +11,19 @@ import urllib2
 
 #Acquired from http://adilmoujahid.com/posts/2014/07/twitter-analytics/
 #Variables that contains the user credentials to access Twitter API 
-access_token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-access_token_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-consumer_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-consumer_secret = "xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_token = "4869609627-lGa4bpRa9bUphIiMvDahxf5L5jT3V83XV5Y1nk6"
+access_token_secret = "WKXEjDDhpXxoymBitm6EJdYpCxDFRg7B8Nhg2oewPIIcx"
+consumer_key = "U5ALJzwPJF07GjvVvBSnlPlhZ"
+consumer_secret = "wmQbiKczoDB3gq7P5OQIu2iaRr89BTIJ4R7tOsfHRjS2AtowgQ"
 
 List = []
 i = iter(List)
-test = open('./testfile.txt' , 'w+')
+test1 = open('./test2file.txt' , 'w+')
 #This is a basic listener that just prints received tweets to stdout.
 class StdOutListener(StreamListener):
     
     def on_data(self, data):
-        if len(List) >= 1000:
+        if len(List) >= 5:
             return False
         #Acquired from Matt Payne
         json_code = json.loads(data)
@@ -46,7 +46,7 @@ class StdOutListener(StreamListener):
             #print c
             if b.status_code == 200 and  a not in List:
                 List.append(a)
-                test.write(a + '\n')
+                test1.write(a + '\n')
                 print a
                 print len(List)
             #for item in List:
@@ -70,4 +70,5 @@ if __name__ == '__main__':
 
     #This line filter Twitter Streams to capture data by the keywords: 'python', 'javascript', 'ruby'
     stream.filter(track=['python', 'javascript', 'ruby'])
-#http://adilmoujahid.com/posts/2014/07/twitter-analytics/     
+#http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+    test1.close()
